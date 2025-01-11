@@ -9,7 +9,7 @@ welcome to AutoMetaPro with me
 
 ***Version => 6.1.9***
 - Fix connecting device
-- fix can't save loop active time
+- Fix can't save loop active time
 ---------------------------------------------
 Contact me if you can't update version
 
