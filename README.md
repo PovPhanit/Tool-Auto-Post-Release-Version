@@ -5,5 +5,5 @@ welcome to C/C++ with me
 
 ---------------------------------------------
 Contact me if you can't update version
-=> Telegram : @phanit_pov
+=> [Telegram](https://t.me/phanit_pov)
 
