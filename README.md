@@ -1,6 +1,6 @@
 # Tool Auto Post (AutoMetaPro) Release Version
 
-welcome to C/C++ with me
+welcome to AutoMetaPro with me
 - 👋 Hi, I’m @PovPhanit
 ---------------------------------------------
 Version => 6.1.9
