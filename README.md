@@ -18,5 +18,6 @@ Contact me if you can't update version
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/PovPhanit)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?logo=instagram)](https://www.instagram.com/phanit_r7)
 [![Email](https://img.shields.io/badge/Email-Contact-yellow?logo=gmail)](mailto:povphanit8@gmail.com)
+[![WeChat](https://img.shields.io/badge/WeChat-Connect-brightgreen?logo=wechat)](https://u.wechat.com/kHLik3UkGp9k-ghuiZ6rMhM)
 
 ____________________________________________
