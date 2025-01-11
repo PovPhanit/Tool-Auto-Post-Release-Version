@@ -3,7 +3,7 @@
 welcome to AutoMetaPro with me
 - 👋 Hi, I’m @PovPhanit
 ---------------------------------------------
-**Version** => 6.1.8
+***Version => 6.1.8***
 - Fix check reach page
 - Fix update load information
 
