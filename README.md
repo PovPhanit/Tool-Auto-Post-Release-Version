@@ -3,6 +3,9 @@
 welcome to AutoMetaPro with me
 - 👋 Hi, I’m @PovPhanit
 ---------------------------------------------
+**Version** => 6.1.8
+- Fix check reach page
+- Fix update load information
 **Version** => 6.1.9
 - Fix connecting device
 - fix can't save loop active time
