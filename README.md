@@ -3,7 +3,9 @@
 welcome to C/C++ with me
 - 👋 Hi, I’m @PovPhanit
 ---------------------------------------------
-Version => 6.1.8
+Version => 6.1.9
+- Fix connecting device
+- fix can't save loop active time
 ---------------------------------------------
 Contact me if you can't update version
 
