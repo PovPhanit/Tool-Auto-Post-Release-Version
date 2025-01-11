@@ -7,7 +7,7 @@ welcome to AutoMetaPro with me
 - Fix check reach page
 - Fix update load information
 
-**Version** => 6.1.9
+***Version => 6.1.9****
 - Fix connecting device
 - fix can't save loop active time
 ---------------------------------------------
