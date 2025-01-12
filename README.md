@@ -10,6 +10,11 @@ welcome to AutoMetaPro with me
 ***Version => 6.1.9***
 - Fix connecting device
 - Fix can't save loop active time
+
+***Version => 6.2.0***
+- Include app for using (Express,surfshark,pia,wireguard,fake gps)
+- Fix gps 
+- Fix surfshark ( Change IP when switch new page)
 ---------------------------------------------
 Contact me if you can't update version
 
