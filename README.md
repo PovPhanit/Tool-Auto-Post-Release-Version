@@ -15,6 +15,10 @@ welcome to AutoMetaPro with me
 - Include app for using (Express,surfshark,pia,wireguard,fake gps)
 - Fix gps 
 - Fix surfshark ( Change IP when switch new page)
+
+***Version => 6.2.1***
+- Fix disconnected surfshark
+- Prevent call and chat when upload post
 ---------------------------------------------
 Contact me if you can't update version
 
